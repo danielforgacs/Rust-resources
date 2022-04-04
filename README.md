@@ -1,5 +1,9 @@
 ## Books
 
+- [Beginning Rust Programming](https://www.wiley.com/en-gb/Beginning+Rust+Programming-p-9781119712978)  
+Ric Messier  
+April 2021 - ISBN: 978-1-119-71297-8
+
 - ### [**Hands-on Rust - Effective Learning through 2D Game Development and Play**](https://pragprog.com/titles/hwrust/hands-on-rust/)  
     by Herbert Wolverson  
     Edition: 1 - Published: July 2021 - ISBN: 9781680508161
