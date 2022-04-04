@@ -16,3 +16,10 @@ Edition: 1 - Published: March 2022 - ISBN: 9781680509175
     Tim McNamara  
     June 2021 - ISBN 9781617294556 
 
+- [Rust Web Development](https://www.manning.com/books/rust-web-development?query=rust)  
+Bastian Gruber  
+Fall 2022 - ISBN 9781617299001
+
+- [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps?query=rust)  
+Prabhu Eshwarla  
+Fall 2022 - ISBN 9781617298608
