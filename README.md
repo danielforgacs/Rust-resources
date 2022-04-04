@@ -1,7 +1,14 @@
 ## Books
 
-- [Hands-on Rust - Effective Learning through 2D Game Development and Play - by Herbert Wolverson](https://pragprog.com/titles/hwrust/hands-on-rust/)  
+- [**Hands-on Rust - Effective Learning through 2D Game Development and Play**](https://pragprog.com/titles/hwrust/hands-on-rust/)  
+by Herbert Wolverson  
 Edition: 1 - Published: July 2021 - ISBN: 9781680508161
 
-- [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications - by Kevin Hoffman](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)  
+- [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)  
+by Kevin Hoffman  
 Edition: 1 - Published: March 2019 - ISBN: 9781680506365
+
+- [Rust Brain Teasers - Exercise Your Mind](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)  
+by Herbert Wolverson  
+Edition: 1 - Published: March 2022 - ISBN: 9781680509175
+
