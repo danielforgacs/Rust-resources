@@ -27,3 +27,7 @@ Fall 2022 - ISBN 9781617299001
 - [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps?query=rust)  
 Prabhu Eshwarla  
 Fall 2022 - ISBN 9781617298608
+
+- [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust?query=rust)  
+Brenden Matthews  
+Early 2023 - ISBN 9781617299643
