@@ -71,3 +71,12 @@ Early 2023 - ISBN 9781617299643
 ![](images/Code_Like_a_Pro_in_Rust_200x.jpg)
 
 ---
+
+[Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)  
+
+by Jim Blandy, Jason Orendorff, Leonora F. S. Tindall
+June 2021 - ISBN: 9781492052593
+
+![](images/Programming_Rust.jpeg)
+
+---
