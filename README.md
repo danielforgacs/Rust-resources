@@ -158,3 +158,13 @@ Released October 2019
 Publisher(s): Packt Publishing
 ISBN: 9781789530667
 ![](images/Rust_Programming_Cookbook.jpeg)
+
+---
+
+Hands-On Microservices with Rust
+https://www.oreilly.com/library/view/hands-on-microservices-with/9781789342758/
+by Denis Kolodin
+Released January 2019
+Publisher(s): Packt Publishing
+ISBN: 9781789342758
+![](images/Hands-On_Microservices.jpeg)
