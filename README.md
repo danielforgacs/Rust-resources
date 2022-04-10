@@ -139,3 +139,22 @@ by Joydeep Bhattacharjee
 December 2019 - ISBN: 9781484251218  
 ![](images/Practical_Machine_Learning.jpeg)
 
+---
+
+Network Programming with Rust
+https://www.oreilly.com/library/view/network-programming-with/9781788624893/
+by Abhishek Chanda
+Released February 2018
+Publisher(s): Packt Publishing
+ISBN: 9781788624893
+![](images/Network_Programming_with_Rust.jpeg)
+
+---
+
+Rust Programming Cookbook
+https://www.oreilly.com/library/view/rust-programming-cookbook/9781789530667/
+by Claus Matzinger
+Released October 2019
+Publisher(s): Packt Publishing
+ISBN: 9781789530667
+![](images/Rust_Programming_Cookbook.jpeg)
