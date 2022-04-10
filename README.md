@@ -83,7 +83,7 @@ n/a - ISBN: n/a
 
 [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)  
 
-by Jim Blandy, Jason Orendorff, Leonora F. S. Tindall
+by Jim Blandy, Jason Orendorff, Leonora F. S. Tindall  
 June 2021 - ISBN: 9781492052593
 
 ![](images/Programming_Rust.jpeg)
@@ -92,7 +92,14 @@ June 2021 - ISBN: 9781492052593
 
 [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)  
 
-Ken Youens-Clark
+Ken Youens-Clark  
 January 2022 - ISBN 9781098109431
 
 ![](images/Command-Line_Rust.jpeg)
+
+---
+
+[Beginning Rust: Get Started with Rust 2021 Edition](https://www.oreilly.com/library/view/beginning-rust-get/9781484272084/)  
+by Carlo Milanesi  
+January 2022 - ISBN 9781484272084  
+![](images/Beginning_Rust.jpeg)
