@@ -198,3 +198,13 @@ Released February 2020
 Publisher(s): Apress
 ISBN: 9781484255995
 ![](images/Practical_Rust_Projects_Building_Game_Physical.jpeg)
+
+---
+
+Practical Rust Web Projects: Building Cloud and Web-Based Applications
+https://www.oreilly.com/library/view/practical-rust-web/9781484265895/
+by Shing Lyu
+Released January 2021
+Publisher(s): Apress
+ISBN: 9781484265895
+![](images/Practical_Rust_Web_Projects_Building_Cloud_and_Web.jpeg)
