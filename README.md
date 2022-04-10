@@ -124,3 +124,10 @@ January 2022 - ISBN: 9781801811446
 by Prabhu Eshwarla  
 December 2020 - ISBN: 9781800560963  
 ![](images/Practical_System_Prog.jpeg)
+
+---
+
+[Rust for Rustaceans](https://www.oreilly.com/library/view/rust-for-rustaceans/9781098129828/)  
+by Jon Gjengset  
+December 2021 - ISBN: 9781718501850  
+![](images/Rust_for_Rustaceans.jpeg)
