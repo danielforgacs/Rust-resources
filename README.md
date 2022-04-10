@@ -168,3 +168,13 @@ Released January 2019
 Publisher(s): Packt Publishing
 ISBN: 9781789342758
 ![](images/Hands-On_Microservices.jpeg)
+
+---
+
+Creative Projects for Rust Programmers
+https://www.oreilly.com/library/view/creative-projects-for/9781789346220/
+by Carlo Milanesi
+Released June 2020
+Publisher(s): Packt Publishing
+ISBN: 9781789346220
+![](images/Creative_Projects_for_Rust_Programmers.jpeg)
