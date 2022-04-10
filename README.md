@@ -80,3 +80,12 @@ June 2021 - ISBN: 9781492052593
 ![](images/Programming_Rust.jpeg)
 
 ---
+
+[Zero To Production In Rust An introduction to backend development](https://www.zero2prod.com/)  
+
+Luca Palmieri 
+n/a - ISBN: n/a
+
+![](images/Zero_To_Production_In_Rust.jpeg)
+
+---
