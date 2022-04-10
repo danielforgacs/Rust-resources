@@ -72,6 +72,15 @@ Early 2023 - ISBN 9781617299643
 
 ---
 
+[Zero To Production In Rust An introduction to backend development](https://www.zero2prod.com/)  
+
+Luca Palmieri 
+n/a - ISBN: n/a
+
+![](images/Zero_To_Production_In_Rust.jpeg)
+
+---
+
 [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)  
 
 by Jim Blandy, Jason Orendorff, Leonora F. S. Tindall
@@ -81,11 +90,9 @@ June 2021 - ISBN: 9781492052593
 
 ---
 
-[Zero To Production In Rust An introduction to backend development](https://www.zero2prod.com/)  
+[Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)  
 
-Luca Palmieri 
-n/a - ISBN: n/a
+Ken Youens-Clark
+January 2022 - ISBN 9781098109431
 
-![](images/Zero_To_Production_In_Rust.jpeg)
-
----
+![](images/Command-Line_Rust.jpeg)
