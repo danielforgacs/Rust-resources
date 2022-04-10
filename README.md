@@ -131,3 +131,11 @@ December 2020 - ISBN: 9781800560963
 by Jon Gjengset  
 December 2021 - ISBN: 9781718501850  
 ![](images/Rust_for_Rustaceans.jpeg)
+
+---
+
+[Practical Machine Learning with Rust: Creating Intelligent Applications in Rust](https://www.oreilly.com/library/view/practical-machine-learning/9781484251218/)  
+by Joydeep Bhattacharjee  
+December 2019 - ISBN: 9781484251218  
+![](images/Practical_Machine_Learning.jpeg)
+
