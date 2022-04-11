@@ -258,3 +258,13 @@ Released May 2018
 Publisher(s): Packt Publishing
 ISBN: 9781788839358
 ![](images/Hands-On_Functional_Programming_in_Rust.jpeg)
+
+---
+
+Rust Programming By Example
+https://www.oreilly.com/library/view/rust-programming-by/9781788390637/
+by Guillaume Gomez, Antoni Boucher
+Released January 2018
+Publisher(s): Packt Publishing
+ISBN: 9781788390637
+![](images/Rust_Programming_By_Example.jpeg)
