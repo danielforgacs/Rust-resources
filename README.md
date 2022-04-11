@@ -238,3 +238,13 @@ Released September 2020
 Publisher(s): Apress
 ISBN: 9781484258606
 ![](images/Rust_for_the_IoT_Building_Internet_of_Things_Apps.jpeg)
+
+---
+
+Rust Standard Library Cookbook
+https://www.oreilly.com/library/view/rust-standard-library/9781788623926/
+by Jan Nils Ferner, Daniel Durante
+Released March 2018
+Publisher(s): Packt Publishing
+ISBN: 9781788623926
+![](images/Rust_Standard_Library_Cookbook.jpeg)
