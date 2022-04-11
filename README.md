@@ -141,42 +141,30 @@ December 2019 - ISBN: 9781484251218
 
 ---
 
-Network Programming with Rust
-https://www.oreilly.com/library/view/network-programming-with/9781788624893/
-by Abhishek Chanda
-Released February 2018
-Publisher(s): Packt Publishing
-ISBN: 9781788624893
+[Network Programming with Rust](https://www.oreilly.com/library/view/network-programming-with/9781788624893/)  
+by Abhishek Chanda  
+February 2018 - ISBN: 9781788624893  
 ![](images/Network_Programming_with_Rust.jpeg)
 
 ---
 
-Rust Programming Cookbook
-https://www.oreilly.com/library/view/rust-programming-cookbook/9781789530667/
-by Claus Matzinger
-Released October 2019
-Publisher(s): Packt Publishing
-ISBN: 9781789530667
+[Rust Programming Cookbook](https://www.oreilly.com/library/view/rust-programming-cookbook/9781789530667/)  
+by Claus Matzinger  
+October 2019 - ISBN: 9781789530667  
 ![](images/Rust_Programming_Cookbook.jpeg)
 
 ---
 
-Hands-On Microservices with Rust
-https://www.oreilly.com/library/view/hands-on-microservices-with/9781789342758/
-by Denis Kolodin
-Released January 2019
-Publisher(s): Packt Publishing
-ISBN: 9781789342758
+[Hands-On Microservices with Rust](https://www.oreilly.com/library/view/hands-on-microservices-with/9781789342758/)  
+by Denis Kolodin  
+January 2019 - ISBN: 9781789342758  
 ![](images/Hands-On_Microservices.jpeg)
 
 ---
 
-Creative Projects for Rust Programmers
-https://www.oreilly.com/library/view/creative-projects-for/9781789346220/
-by Carlo Milanesi
-Released June 2020
-Publisher(s): Packt Publishing
-ISBN: 9781789346220
+[Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/)  
+by Carlo Milanesi  
+June 2020 - ISBN: 9781789346220  
 ![](images/Creative_Projects_for_Rust_Programmers.jpeg)
 
 ---
@@ -288,3 +276,10 @@ Released May 2018
 Publisher(s): Packt Publishing
 ISBN: 9781788399975
 ![](images/Hands-On_Concurrency_with_Rust.jpeg)
+
+---
+
+Fullstack Rust
+https://www.newline.co/fullstack-rust
+Andy Weiss
+![](images/Fullstack_Rust.jpeg)
