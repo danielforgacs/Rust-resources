@@ -268,3 +268,13 @@ Released January 2018
 Publisher(s): Packt Publishing
 ISBN: 9781788390637
 ![](images/Rust_Programming_By_Example.jpeg)
+
+---
+
+Rust High Performance
+https://www.oreilly.com/library/view/rust-high-performance/9781788399487/
+by Iban Eguia Moraza
+Released March 2018
+Publisher(s): Packt Publishing
+ISBN: 9781788399487
+![](images/Rust_High_Performance.jpeg)
