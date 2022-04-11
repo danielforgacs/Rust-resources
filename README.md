@@ -278,3 +278,13 @@ Released March 2018
 Publisher(s): Packt Publishing
 ISBN: 9781788399487
 ![](images/Rust_High_Performance.jpeg)
+
+---
+
+Hands-On Concurrency with Rust
+https://www.oreilly.com/library/view/hands-on-concurrency-with/9781788399975/
+by Brian L. Troutwine
+Released May 2018
+Publisher(s): Packt Publishing
+ISBN: 9781788399975
+![](images/Hands-On_Concurrency_with_Rust.jpeg)
