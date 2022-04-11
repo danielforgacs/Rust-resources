@@ -169,22 +169,16 @@ June 2020 - ISBN: 9781789346220
 
 ---
 
-Hands-On Data Structures and Algorithms with Rust
-https://www.oreilly.com/library/view/hands-on-data-structures/9781788995528/
-by Claus Matzinger
-Released January 2019
-Publisher(s): Packt Publishing
-ISBN: 9781788995528
+[Hands-On Data Structures and Algorithms with Rust](https://www.oreilly.com/library/view/hands-on-data-structures/9781788995528/)  
+by Claus Matzinger  
+January 2019 - ISBN: 9781788995528  
 ![](images/Hands-On_Data_Structures_and_Algorithms.jpeg)
 
 ---
 
-Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications
-https://www.oreilly.com/library/view/practical-rust-projects/9781484255995/
-by Shing Lyu
-Released February 2020
-Publisher(s): Apress
-ISBN: 9781484255995
+[Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](https://www.oreilly.com/library/view/practical-rust-projects/9781484255995/)  
+by Shing Lyu  
+February 2020 - ISBN: 9781484255995  
 ![](images/Practical_Rust_Projects_Building_Game_Physical.jpeg)
 
 ---
