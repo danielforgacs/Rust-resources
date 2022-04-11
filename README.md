@@ -248,3 +248,13 @@ Released March 2018
 Publisher(s): Packt Publishing
 ISBN: 9781788623926
 ![](images/Rust_Standard_Library_Cookbook.jpeg)
+
+---
+
+Hands-On Functional Programming in Rust
+https://www.oreilly.com/library/view/hands-on-functional-programming/9781788839358/
+by Andrew Johnson
+Released May 2018
+Publisher(s): Packt Publishing
+ISBN: 9781788839358
+![](images/Hands-On_Functional_Programming_in_Rust.jpeg)
