@@ -229,3 +229,12 @@ Publisher(s): Apress
 ISBN: 9781484277898
 ![](images/Getting_Started_with_Secure_Embedded_Systems.jpeg)
 
+---
+
+Rust for the IoT: Building Internet of Things Apps with Rust and Raspberry Pi
+https://www.oreilly.com/library/view/rust-for-the/9781484258606/
+by Joseph Faisal Nusairat
+Released September 2020
+Publisher(s): Apress
+ISBN: 9781484258606
+![](images/Rust_for_the_IoT_Building_Internet_of_Things_Apps.jpeg)
