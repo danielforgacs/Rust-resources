@@ -183,22 +183,16 @@ February 2020 - ISBN: 9781484255995
 
 ---
 
-Practical Rust Web Projects: Building Cloud and Web-Based Applications
-https://www.oreilly.com/library/view/practical-rust-web/9781484265895/
-by Shing Lyu
-Released January 2021
-Publisher(s): Apress
-ISBN: 9781484265895
+[Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.oreilly.com/library/view/practical-rust-web/9781484265895/)  
+by Shing Lyu  
+January 2021 - ISBN: 9781484265895  
 ![](images/Practical_Rust_Web_Projects_Building_Cloud_and_Web.jpeg)
 
 ---
 
-Mastering Rust - Second Edition
-https://www.oreilly.com/library/view/mastering-rust/9781789346572/
-by Rahul Sharma, Vesa Kaihlavirta
-Released January 2019
-Publisher(s): Packt Publishing
-ISBN: 9781789346572
+[Mastering Rust - Second Edition](https://www.oreilly.com/library/view/mastering-rust/9781789346572/)  
+by Rahul Sharma, Vesa Kaihlavirta  
+January 2019 - ISBN: 9781789346572  
 ![](images/Mastering_Rust_Second_Edition.jpeg)
 
 ---
