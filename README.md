@@ -200,13 +200,10 @@ January 2019 - ISBN: 9781789346572
 
 ---
 
-Getting Started with Secure Embedded Systems: Developing IoT Systems for micro:bit and Raspberry Pi Pico Using Rust and Tock
-https://www.oreilly.com/library/view/getting-started-with/9781484277898/
-by Alexandru Radovici, Ioana Culic
-Released January 2022
-Publisher(s): Apress
-ISBN: 9781484277898
-![](images/Getting_Started_with_Secure_Embedded_Systems.jpeg)
+[Getting Started with Secure Embedded Systems: Developing IoT Systems for micro:bit and Raspberry Pi Pico Using Rust and Tock](https://www.oreilly.com/library/view/getting-started-with/9781484277898/)  
+by Alexandru Radovici, Ioana Culic  
+January 2022 - ISBN: 9781484277898  
+<img src="images/Getting_Started_with_Secure_Embedded_Systems.jpeg" width=100>
 
 ---
 
