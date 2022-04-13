@@ -255,3 +255,17 @@ May 2018 - ISBN: 9781788399975
 Andy Weiss  
 ? - ?  
 <img src="images/Fullstack_Rust.jpeg" width=100>
+
+---
+
+[Rust for Rustaceans - Idiomatic Programming for Experienced Developers](https://nostarch.com/rust-rustaceans)  
+by Jon Gjengset  
+November 2021 - ISBN-13: 9781718501850  
+<img src="images/RustforRustaceans_cover.jpeg" width=100>
+
+---
+
+[The Rust Programming Language (Covers Rust 2018)](https://nostarch.com/Rust2018)  
+by Steve Klabnik and Carol Nichols  
+August 2019 - ISBN-13: 9781718500440  
+<img src="images/Rust2018_front.jpeg" width=100>
