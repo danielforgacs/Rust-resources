@@ -133,35 +133,35 @@ December 2020 - ISBN: 9781800560963
 [Rust for Rustaceans](https://www.oreilly.com/library/view/rust-for-rustaceans/9781098129828/)  
 by Jon Gjengset  
 December 2021 - ISBN: 9781718501850  
-![](images/Rust_for_Rustaceans.jpeg)
+<img src="images/Rust_for_Rustaceans.jpeg" width=100>
 
 ---
 
 [Practical Machine Learning with Rust: Creating Intelligent Applications in Rust](https://www.oreilly.com/library/view/practical-machine-learning/9781484251218/)  
 by Joydeep Bhattacharjee  
 December 2019 - ISBN: 9781484251218  
-![](images/Practical_Machine_Learning.jpeg)
+<img src="images/Practical_Machine_Learning.jpeg" width=100>
 
 ---
 
 [Network Programming with Rust](https://www.oreilly.com/library/view/network-programming-with/9781788624893/)  
 by Abhishek Chanda  
 February 2018 - ISBN: 9781788624893  
-![](images/Network_Programming_with_Rust.jpeg)
+<img src="images/Network_Programming_with_Rust.jpeg" width=100>
 
 ---
 
 [Rust Programming Cookbook](https://www.oreilly.com/library/view/rust-programming-cookbook/9781789530667/)  
 by Claus Matzinger  
 October 2019 - ISBN: 9781789530667  
-![](images/Rust_Programming_Cookbook.jpeg)
+<img src="images/Rust_Programming_Cookbook.jpeg" width=100>
 
 ---
 
 [Hands-On Microservices with Rust](https://www.oreilly.com/library/view/hands-on-microservices-with/9781789342758/)  
 by Denis Kolodin  
 January 2019 - ISBN: 9781789342758  
-![](images/Hands-On_Microservices.jpeg)
+<img src="images/Hands-On_Microservices.jpeg" width=100>
 
 ---
 
