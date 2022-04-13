@@ -112,21 +112,21 @@ January 2022 - ISBN 9781484272084
 [Rust Web Programming](https://www.oreilly.com/library/view/rust-web-programming/9781800560819/)  
 by Maxwell Flitton  
 February 2021 - ISBN: 9781800560819  
-![](images/Rust_Web_Programming.jpeg)
+<img src="images/Rust_Web_Programming.jpeg" width=100>
 
 ---
 
 [Speed Up Your Python with Rust](https://www.oreilly.com/library/view/speed-up-your/9781801811446/)  
 by Maxwell Flitton  
 January 2022 - ISBN: 9781801811446  
-![](images/Speed_Up_Your_Python_with_Rust.jpeg)
+<img src="images/Speed_Up_Your_Python_with_Rust.jpeg" width=100>
 
 ---
 
 [Practical System Programming for Rust Developers](https://www.oreilly.com/library/view/practical-system-programming/9781800560963/)  
 by Prabhu Eshwarla  
 December 2020 - ISBN: 9781800560963  
-![](images/Practical_System_Prog.jpeg)
+<img src="images/Practical_System_Prog.jpeg" width=100>
 
 ---
 
