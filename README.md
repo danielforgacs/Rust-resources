@@ -72,7 +72,6 @@ Early 2023 - ISBN 9781617299643
 
 <img src="images/Code_Like_a_Pro_in_Rust_200x.jpg" width=100>
 
-
 ---
 
 [Zero To Production In Rust An introduction to backend development](https://www.zero2prod.com/)  
@@ -80,7 +79,7 @@ Early 2023 - ISBN 9781617299643
 Luca Palmieri 
 n/a - ISBN: n/a
 
-![](images/Zero_To_Production_In_Rust.jpeg)
+<img src="images/Zero_To_Production_In_Rust.jpeg" width=100>
 
 ---
 
@@ -89,7 +88,7 @@ n/a - ISBN: n/a
 by Jim Blandy, Jason Orendorff, Leonora F. S. Tindall  
 June 2021 - ISBN: 9781492052593
 
-![](images/Programming_Rust.jpeg)
+<img src="images/Programming_Rust.jpeg" width=100>
 
 ---
 
@@ -98,14 +97,15 @@ June 2021 - ISBN: 9781492052593
 Ken Youens-Clark  
 January 2022 - ISBN 9781098109431
 
-![](images/Command-Line_Rust.jpeg)
+<img src="images/Command-Line_Rust.jpeg" width=100>
 
 ---
 
 [Beginning Rust: Get Started with Rust 2021 Edition](https://www.oreilly.com/library/view/beginning-rust-get/9781484272084/)  
 by Carlo Milanesi  
 January 2022 - ISBN 9781484272084  
-![](images/Beginning_Rust.jpeg)
+
+<img src="images/Beginning_Rust.jpeg" width=100>
 
 ---
 
