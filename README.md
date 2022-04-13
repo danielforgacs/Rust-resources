@@ -207,67 +207,51 @@ January 2022 - ISBN: 9781484277898
 
 ---
 
-Rust for the IoT: Building Internet of Things Apps with Rust and Raspberry Pi
-https://www.oreilly.com/library/view/rust-for-the/9781484258606/
-by Joseph Faisal Nusairat
-Released September 2020
-Publisher(s): Apress
-ISBN: 9781484258606
-![](images/Rust_for_the_IoT_Building_Internet_of_Things_Apps.jpeg)
+[Rust for the IoT: Building Internet of Things Apps with Rust and Raspberry Pi](https://www.oreilly.com/library/view/rust-for-the/9781484258606/)  
+by Joseph Faisal Nusairat  
+Released  - ISBN: 9781484258606  
+<img src="images/Rust_for_the_IoT_Building_Internet_of_Things_Apps.jpeg" width=100>
 
 ---
 
-Rust Standard Library Cookbook
-https://www.oreilly.com/library/view/rust-standard-library/9781788623926/
-by Jan Nils Ferner, Daniel Durante
-Released March 2018
-Publisher(s): Packt Publishing
-ISBN: 9781788623926
-![](images/Rust_Standard_Library_Cookbook.jpeg)
+[Rust Standard Library Cookbook](https://www.oreilly.com/library/view/rust-standard-library/9781788623926/)  
+by Jan Nils Ferner, Daniel Durante  
+Released  - ISBN: 9781788623926  
+<img src="images/Rust_Standard_Library_Cookbook.jpeg" width=100>
 
 ---
 
-Hands-On Functional Programming in Rust
-https://www.oreilly.com/library/view/hands-on-functional-programming/9781788839358/
+[Hands-On Functional Programming in Rust](https://www.oreilly.com/library/view/hands-on-functional-programming/9781788839358/)  
 by Andrew Johnson
-Released May 2018
-Publisher(s): Packt Publishing
-ISBN: 9781788839358
-![](images/Hands-On_Functional_Programming_in_Rust.jpeg)
+May 2018 - ISBN: 9781788839358  
+<img src="images/Hands-On_Functional_Programming_in_Rust.jpeg" width=100>
 
 ---
 
-Rust Programming By Example
-https://www.oreilly.com/library/view/rust-programming-by/9781788390637/
-by Guillaume Gomez, Antoni Boucher
-Released January 2018
-Publisher(s): Packt Publishing
-ISBN: 9781788390637
-![](images/Rust_Programming_By_Example.jpeg)
+[Rust Programming By Example](https://www.oreilly.com/library/view/rust-programming-by/9781788390637/)  
+by Guillaume Gomez, Antoni Boucher  
+January 2018 - ISBN: 9781788390637  
+<img src="images/Rust_Programming_By_Example.jpeg" width=100>
 
 ---
 
-Rust High Performance
-https://www.oreilly.com/library/view/rust-high-performance/9781788399487/
+[Rust High Performance]
+(https://www.oreilly.com/library/view/rust-high-performance/9781788399487/)  
 by Iban Eguia Moraza
-Released March 2018
-Publisher(s): Packt Publishing
-ISBN: 9781788399487
-![](images/Rust_High_Performance.jpeg)
+March 2018 - ISBN: 9781788399487  
+<img src="images/Rust_High_Performance.jpeg" width=100>
 
 ---
 
-Hands-On Concurrency with Rust
-https://www.oreilly.com/library/view/hands-on-concurrency-with/9781788399975/
+[Hands-On Concurrency with Rust]
+(https://www.oreilly.com/library/view/hands-on-concurrency-with/9781788399975/)  
 by Brian L. Troutwine
-Released May 2018
-Publisher(s): Packt Publishing
-ISBN: 9781788399975
-![](images/Hands-On_Concurrency_with_Rust.jpeg)
+May 2018 - ISBN: 9781788399975  
+<img src="images/Hands-On_Concurrency_with_Rust.jpeg" width=100>
 
 ---
 
-Fullstack Rust
-https://www.newline.co/fullstack-rust
-Andy Weiss
-![](images/Fullstack_Rust.jpeg)
+[Fullstack Rust](https://www.newline.co/fullstack-rust)  
+Andy Weiss  
+? - ?  
+<img src="images/Fullstack_Rust.jpeg" width=100>
