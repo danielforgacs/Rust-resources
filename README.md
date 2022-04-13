@@ -281,3 +281,17 @@ August 2019 - ISBN-13: 9781718500440
 By Karuna Murti  
 August 2022 - ISBN 9781800561304  
 <img src="images/Rust_Web_Development_with_Rocket.jpeg" width=100>
+
+---
+
+[Beginning Rust - From Novice to Professional](https://link.springer.com/book/10.1007/978-1-4842-3468-6)  
+Carlo Milanesi  
+2018 - Softcover ISBN 978-1-4842-3467-9  
+<img src="images/Beginning_Rust_From_Novice_to_Professional.jpeg" width=100>
+
+---
+
+[Beginning Rust - Get Started with Rust 2021 Edition](https://link.springer.com/book/10.1007/978-1-4842-7208-4)  
+Carlo Milanesi  
+2022 - Softcover ISBN 978-1-4842-7207-7  
+<img src="images/Beginning_Rust_Get_Started_with_Rust_2021_Edition.jpeg" width=100>
