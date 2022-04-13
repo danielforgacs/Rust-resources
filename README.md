@@ -151,14 +151,14 @@ February 2018 - ISBN: 9781788624893
 
 ---
 
-[Rust Programming Cookbook](https://www.oreilly.com/library/view/rust-programming-cookbook/9781789530667/)  
+[Rust Programming Cookbook](https://www.packtpub.com/product/rust-programming-cookbook/9781789530667)  
 by Claus Matzinger  
 October 2019 - ISBN: 9781789530667  
 <img src="images/Rust_Programming_Cookbook.jpeg" width=100>
 
 ---
 
-[Hands-On Microservices with Rust](https://www.oreilly.com/library/view/hands-on-microservices-with/9781789342758/)  
+[Hands-On Microservices with Rust](https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758)  
 by Denis Kolodin  
 January 2019 - ISBN: 9781789342758  
 <img src="images/Hands-On_Microservices.jpeg" width=100>
@@ -172,10 +172,17 @@ June 2020 - ISBN: 9781789346220
 
 ---
 
-[Hands-On Data Structures and Algorithms with Rust](https://www.oreilly.com/library/view/hands-on-data-structures/9781788995528/)  
+[Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)  
 by Claus Matzinger  
 January 2019 - ISBN: 9781788995528  
 <img src="images/Hands-On_Data_Structures_and_Algorithms.jpeg" width=100>
+
+---
+
+[Rust Quick Start Guide](https://www.packtpub.com/product/rust-quick-start-guide/9781789616705)  
+By Daniel Arbuckle  
+October 2018 - ISBN 9781789616705  
+<img src="images/Rust_Quick_Start_Guide.jpeg" width=100>
 
 ---
 
@@ -193,7 +200,7 @@ January 2021 - ISBN: 9781484265895
 
 ---
 
-[Mastering Rust - Second Edition](https://www.oreilly.com/library/view/mastering-rust/9781789346572/)  
+[Mastering Rust - Second Edition](https://www.packtpub.com/product/mastering-rust-second-edition/9781789346572)  
 by Rahul Sharma, Vesa Kaihlavirta  
 January 2019 - ISBN: 9781789346572  
 <img src="images/Mastering_Rust_Second_Edition.jpeg" width=100>
