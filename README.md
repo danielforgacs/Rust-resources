@@ -50,7 +50,8 @@ June 2021 - ISBN 9781617294556
 Bastian Gruber  
 Fall 2022 - ISBN 9781617299001
 
-![](images/Rust_Web_Development.jpeg)
+<img src="images/Rust_Web_Development.jpeg" width=100>
+
 
 ---
 
@@ -59,7 +60,8 @@ Fall 2022 - ISBN 9781617299001
 Prabhu Eshwarla  
 Fall 2022 - ISBN 9781617298608
 
-![](images/Rust_Servers_Services_and_Apps.jpeg)
+<img src="images/Rust_Servers_Services_and_Apps.jpeg" width=100>
+
 
 ---
 
@@ -68,7 +70,8 @@ Fall 2022 - ISBN 9781617298608
 Brenden Matthews  
 Early 2023 - ISBN 9781617299643
 
-![](images/Code_Like_a_Pro_in_Rust_200x.jpg)
+<img src="images/Code_Like_a_Pro_in_Rust_200x.jpg" width=100>
+
 
 ---
 
