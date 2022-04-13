@@ -6,6 +6,7 @@ Ric Messier
 April 2021 - ISBN: 978-1-119-71297-8  
 
 ![](images/Beginning_Rust_Programming.jpg)
+<img src="images/Beginning_Rust_Programming.jpg" width=100>
 
 ---
 
