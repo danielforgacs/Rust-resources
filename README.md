@@ -235,17 +235,15 @@ January 2018 - ISBN: 9781788390637
 
 ---
 
-[Rust High Performance]
-(https://www.oreilly.com/library/view/rust-high-performance/9781788399487/)  
-by Iban Eguia Moraza
+[Rust High Performance](https://www.oreilly.com/library/view/rust-high-performance/9781788399487/)  
+by Iban Eguia Moraza  
 March 2018 - ISBN: 9781788399487  
 <img src="images/Rust_High_Performance.jpeg" width=100>
 
 ---
 
-[Hands-On Concurrency with Rust]
-(https://www.oreilly.com/library/view/hands-on-concurrency-with/9781788399975/)  
-by Brian L. Troutwine
+[Hands-On Concurrency with Rust](https://www.oreilly.com/library/view/hands-on-concurrency-with/9781788399975/)  
+by Brian L. Troutwine  
 May 2018 - ISBN: 9781788399975  
 <img src="images/Hands-On_Concurrency_with_Rust.jpeg" width=100>
 
