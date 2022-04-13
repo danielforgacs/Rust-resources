@@ -165,7 +165,7 @@ January 2019 - ISBN: 9781789342758
 
 ---
 
-[Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/)  
+[Creative Projects for Rust Programmers](https://www.packtpub.com/product/creative-projects-for-rust-programmers/9781789346220)  
 by Carlo Milanesi  
 June 2020 - ISBN: 9781789346220  
 <img src="images/Creative_Projects_for_Rust_Programmers.jpeg" width=100>
