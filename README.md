@@ -295,3 +295,10 @@ Carlo Milanesi
 Carlo Milanesi  
 2022 - Softcover ISBN 978-1-4842-7207-7  
 <img src="images/Beginning_Rust_Get_Started_with_Rust_2021_Edition.jpeg" width=100>
+
+---
+
+[Rust Atomics and Locks](https://www.oreilly.com/library/view/rust-atomics-and/9781098119430/)  
+by Mara Bos  
+November 2022 - ISBN: 9781098119423  
+<img src="images/Rust_Atomics_and_Locks.jpeg" width=100>
