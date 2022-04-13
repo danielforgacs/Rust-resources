@@ -274,3 +274,10 @@ November 2021 - ISBN-13: 9781718501850
 by Steve Klabnik and Carol Nichols  
 August 2019 - ISBN-13: 9781718500440  
 <img src="images/Rust2018_front.jpeg" width=100>
+
+---
+
+[Rust Web Development with Rocket](https://www.packtpub.com/product/rust-web-development-with-rocket/9781800561304)  
+By Karuna Murti  
+August 2022 - ISBN 9781800561304  
+<img src="images/Rust_Web_Development_with_Rocket.jpeg" width=100>
