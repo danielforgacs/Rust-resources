@@ -168,35 +168,35 @@ January 2019 - ISBN: 9781789342758
 [Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/)  
 by Carlo Milanesi  
 June 2020 - ISBN: 9781789346220  
-![](images/Creative_Projects_for_Rust_Programmers.jpeg)
+<img src="images/Creative_Projects_for_Rust_Programmers.jpeg" width=100>
 
 ---
 
 [Hands-On Data Structures and Algorithms with Rust](https://www.oreilly.com/library/view/hands-on-data-structures/9781788995528/)  
 by Claus Matzinger  
 January 2019 - ISBN: 9781788995528  
-![](images/Hands-On_Data_Structures_and_Algorithms.jpeg)
+<img src="images/Hands-On_Data_Structures_and_Algorithms.jpeg" width=100>
 
 ---
 
 [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](https://www.oreilly.com/library/view/practical-rust-projects/9781484255995/)  
 by Shing Lyu  
 February 2020 - ISBN: 9781484255995  
-![](images/Practical_Rust_Projects_Building_Game_Physical.jpeg)
+<img src="images/Practical_Rust_Projects_Building_Game_Physical.jpeg" width=100>
 
 ---
 
 [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.oreilly.com/library/view/practical-rust-web/9781484265895/)  
 by Shing Lyu  
 January 2021 - ISBN: 9781484265895  
-![](images/Practical_Rust_Web_Projects_Building_Cloud_and_Web.jpeg)
+<img src="images/Practical_Rust_Web_Projects_Building_Cloud_and_Web.jpeg" width=100>
 
 ---
 
 [Mastering Rust - Second Edition](https://www.oreilly.com/library/view/mastering-rust/9781789346572/)  
 by Rahul Sharma, Vesa Kaihlavirta  
 January 2019 - ISBN: 9781789346572  
-![](images/Mastering_Rust_Second_Edition.jpeg)
+<img src="images/Mastering_Rust_Second_Edition.jpeg" width=100>
 
 ---
 
