@@ -308,3 +308,13 @@ November 2022 - ISBN: 9781098119423
 ---
 
 # Online Books
+
+[PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/introduction.html)  
+[A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)  
+[Easy Rust](https://dhghomon.github.io/easy_rust/)  
+[Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/)  
+
+# Various Resources
+
+[Learning Rust](https://learning-rust.github.io/)  
+[The Little Book of Rust Books](https://lborb.github.io/book/)  
