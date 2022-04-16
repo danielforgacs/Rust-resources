@@ -9,6 +9,15 @@ April 2021 - ISBN: 978-1-119-71297-8
 
 ---
 
+## > [**Rust in Action Systems programming concepts and techniques**](https://www.manning.com/books/rust-in-action)  
+
+Tim McNamara  
+June 2021 - ISBN 9781617294556  
+
+<img src="images/Rust_in_Action.jpeg" width=100>
+
+---
+
 ## > [**Hands-on Rust - Effective Learning through 2D Game Development and Play**](https://pragprog.com/titles/hwrust/hands-on-rust/)  
 
 by Herbert Wolverson  
@@ -16,6 +25,16 @@ Edition: 1 - Published: July 2021 - ISBN: 9781680508161
 
 <img src="images/Hands-on_Rust.jpg" width=100>
 
+---
+
+## > [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)  
+
+Ken Youens-Clark  
+January 2022 - ISBN 9781098109431
+
+<img src="images/Command-Line_Rust.jpeg" width=100>
+
+---
 ---
 
 [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)  
@@ -33,15 +52,6 @@ by Herbert Wolverson
 Edition: 1 - Published: March 2022 - ISBN: 9781680509175  
 
 <img src="images/Rust_Brain_Teasers.jpg" width=100>
-
----
-
-## > [**Rust in Action Systems programming concepts and techniques**](https://www.manning.com/books/rust-in-action)  
-
-Tim McNamara  
-June 2021 - ISBN 9781617294556  
-
-<img src="images/Rust_in_Action.jpeg" width=100>
 
 ---
 
@@ -89,15 +99,6 @@ by Jim Blandy, Jason Orendorff, Leonora F. S. Tindall
 June 2021 - ISBN: 9781492052593
 
 <img src="images/Programming_Rust.jpeg" width=100>
-
----
-
-[Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)  
-
-Ken Youens-Clark  
-January 2022 - ISBN 9781098109431
-
-<img src="images/Command-Line_Rust.jpeg" width=100>
 
 ---
 
