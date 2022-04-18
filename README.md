@@ -309,6 +309,9 @@ November 2022 - ISBN: 9781098119423
 
 # Online Books
 
+[The Rust Reference](https://doc.rust-lang.org/reference/)  
+[The Rustonomicon](https://doc.rust-lang.org/nomicon/)  
+[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)  
 [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/introduction.html)  
 [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)  
 [Easy Rust](https://dhghomon.github.io/easy_rust/)  
