@@ -316,8 +316,8 @@ November 2022 - ISBN: 9781098119423
 [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)  
 [Easy Rust](https://dhghomon.github.io/easy_rust/)  
 [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/)  
-[The Rust Programming Language - 1st edition](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/README.html)  
-[The Rust Programming Language - 2nd edition](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html)  
+[The Rust Programming Language - 1st edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/README.html)  
+[The Rust Programming Language - 2nd edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html)  
 
 # Various Resources
 
