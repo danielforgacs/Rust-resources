@@ -307,10 +307,24 @@ November 2022 - ISBN: 9781098119423
 ---
 ---
 
-# Online Books
 
+## Official
+
+[The Book - The Rust Programming Language](https://doc.rust-lang.org/book/)  
+[rustlings](https://github.com/rust-lang/rustlings/)  
+[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)  
+[The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)  
+[The rustc book](https://doc.rust-lang.org/rustc/index.html)  
+[Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)  
+[Rust and WebAssembly](https://rustwasm.github.io/docs/book/)  
+[The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book/)  
 [The Rust Reference](https://doc.rust-lang.org/reference/)  
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)  
+[The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)  
+
+
+## Online Books
+
 [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)  
 [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/introduction.html)  
 [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)  
@@ -319,7 +333,9 @@ November 2022 - ISBN: 9781098119423
 [The Rust Programming Language - 1st edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/README.html)  
 [The Rust Programming Language - 2nd edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html)  
 
-# Various Resources
+
+## Various Resources
 
 [Learning Rust](https://learning-rust.github.io/)  
 [The Little Book of Rust Books](https://lborb.github.io/book/)  
+[rust-unofficial](https://github.com/rust-unofficial)  
