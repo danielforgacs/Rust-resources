@@ -1,6 +1,6 @@
-## Books
+# Books
 
-## > [**Beginning Rust Programming**](https://www.wiley.com/en-gb/Beginning+Rust+Programming-p-9781119712978)  
+## >>> [**Beginning Rust Programming**](https://www.wiley.com/en-gb/Beginning+Rust+Programming-p-9781119712978)  
 
 Ric Messier  
 April 2021 - ISBN: 978-1-119-71297-8  
@@ -9,13 +9,32 @@ April 2021 - ISBN: 978-1-119-71297-8
 
 ---
 
-## > [**Hands-on Rust - Effective Learning through 2D Game Development and Play**](https://pragprog.com/titles/hwrust/hands-on-rust/)  
+## >>> [**Rust in Action Systems programming concepts and techniques**](https://www.manning.com/books/rust-in-action)  
+
+Tim McNamara  
+June 2021 - ISBN 9781617294556  
+
+<img src="images/Rust_in_Action.jpeg" width=100>
+
+---
+
+## >>> [**Hands-on Rust - Effective Learning through 2D Game Development and Play**](https://pragprog.com/titles/hwrust/hands-on-rust/)  
 
 by Herbert Wolverson  
 Edition: 1 - Published: July 2021 - ISBN: 9781680508161  
 
 <img src="images/Hands-on_Rust.jpg" width=100>
 
+---
+
+## >>> [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)  
+
+Ken Youens-Clark  
+January 2022 - ISBN 9781098109431
+
+<img src="images/Command-Line_Rust.jpeg" width=100>
+
+---
 ---
 
 [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)  
@@ -33,15 +52,6 @@ by Herbert Wolverson
 Edition: 1 - Published: March 2022 - ISBN: 9781680509175  
 
 <img src="images/Rust_Brain_Teasers.jpg" width=100>
-
----
-
-## > [**Rust in Action Systems programming concepts and techniques**](https://www.manning.com/books/rust-in-action)  
-
-Tim McNamara  
-June 2021 - ISBN 9781617294556  
-
-<img src="images/Rust_in_Action.jpeg" width=100>
 
 ---
 
@@ -89,15 +99,6 @@ by Jim Blandy, Jason Orendorff, Leonora F. S. Tindall
 June 2021 - ISBN: 9781492052593
 
 <img src="images/Programming_Rust.jpeg" width=100>
-
----
-
-[Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)  
-
-Ken Youens-Clark  
-January 2022 - ISBN 9781098109431
-
-<img src="images/Command-Line_Rust.jpeg" width=100>
 
 ---
 
@@ -302,3 +303,43 @@ Carlo Milanesi
 by Mara Bos  
 November 2022 - ISBN: 9781098119423  
 <img src="images/Rust_Atomics_and_Locks.jpeg" width=100>
+
+---
+---
+
+
+## Official
+
+[The Book - The Rust Programming Language](https://doc.rust-lang.org/book/)  
+[rustlings](https://github.com/rust-lang/rustlings/)  
+[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)  
+[The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)  
+[The rustc book](https://doc.rust-lang.org/rustc/index.html)  
+[Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)  
+[Rust and WebAssembly](https://rustwasm.github.io/docs/book/)  
+[The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book/)  
+[The Rust Reference](https://doc.rust-lang.org/reference/)  
+[The Rustonomicon](https://doc.rust-lang.org/nomicon/)  
+[The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)  
+
+
+## Online Books
+
+[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)  
+[PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/introduction.html)  
+[Rusty Snake](https://snake.rustbridge.com/)  
+[A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)  
+[Effective Rust](https://www.lurklurk.org/effective-rust/)  
+[Easy Rust](https://dhghomon.github.io/easy_rust/)  
+[Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/)  
+[The Rust Programming Language - 1st edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/README.html)  
+[The Rust Programming Language - 2nd edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html)  
+[Rust For Systems Programmers - A Rust tutorial for experienced C and C++ programmers.](https://github.com/nrc/r4cppp)  
+
+
+## Various Resources
+
+[Learning Rust](https://learning-rust.github.io/)  
+[The Little Book of Rust Books](https://lborb.github.io/book/)  
+[rust-unofficial](https://github.com/rust-unofficial)  
+[ctjhoa / rust-learning](https://github.com/ctjhoa/rust-learning)  
