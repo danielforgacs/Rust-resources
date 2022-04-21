@@ -327,11 +327,14 @@ November 2022 - ISBN: 9781098119423
 
 [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)  
 [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/introduction.html)  
+[Rusty Snake](https://snake.rustbridge.com/)  
 [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)  
+[Effective Rust](https://www.lurklurk.org/effective-rust/)  
 [Easy Rust](https://dhghomon.github.io/easy_rust/)  
 [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/)  
 [The Rust Programming Language - 1st edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/README.html)  
 [The Rust Programming Language - 2nd edition - MIT, rust v1.25](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html)  
+[Rust For Systems Programmers - A Rust tutorial for experienced C and C++ programmers.](https://github.com/nrc/r4cppp)  
 
 
 ## Various Resources
@@ -339,3 +342,4 @@ November 2022 - ISBN: 9781098119423
 [Learning Rust](https://learning-rust.github.io/)  
 [The Little Book of Rust Books](https://lborb.github.io/book/)  
 [rust-unofficial](https://github.com/rust-unofficial)  
+[ctjhoa / rust-learning](https://github.com/ctjhoa/rust-learning)  
