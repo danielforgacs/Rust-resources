@@ -35,6 +35,15 @@ January 2022 - ISBN 9781098109431
 <img src="images/Command-Line_Rust.jpeg" width=100>
 
 ---
+
+## >>> [Rust Brain Teasers - Exercise Your Mind](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)  
+
+by Herbert Wolverson  
+Edition: 1 - Published: March 2022 - ISBN: 9781680509175  
+
+<img src="images/Rust_Brain_Teasers.jpg" width=100>
+
+---
 ---
 
 [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)  
@@ -43,15 +52,6 @@ by Kevin Hoffman
 Edition: 1 - Published: March 2019 - ISBN: 9781680506365  
 
 <img src="images/Programming_WebAssembly_with_Rust.jpg" width=100>
-
----
-
-[Rust Brain Teasers - Exercise Your Mind](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)  
-
-by Herbert Wolverson  
-Edition: 1 - Published: March 2022 - ISBN: 9781680509175  
-
-<img src="images/Rust_Brain_Teasers.jpg" width=100>
 
 ---
 
